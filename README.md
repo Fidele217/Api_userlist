@@ -22,4 +22,4 @@ ADANGO Héribert
 
 HOUNGBO Serge
 
-TP-3 IFRI GL-IM Licence 3
+TP-2 Licence 3 IFRI GL-IM
